@@ -1,0 +1,12 @@
+title: Redirect to CCCL
+
+repository: nvidia/libcudacxx
+
+defaults:
+  -
+    scope:
+      path: index.html
+    values:
+      title: index
+      nav_order: 0
+      permalink: /

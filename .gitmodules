@@ -1,3 +1,0 @@
-[submodule "libcudacxx"]
-	path = dependencies/libcudacxx
-	url = ../libcudacxx.git
